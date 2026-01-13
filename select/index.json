@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "弱虫モンブラン (Reloaded)",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-01-13T12:47:02.376643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "弱虫モンブラン",
+      "artist": "DECO*27 feat. marina",
+      "has_synced": false,
+      "path": "select/01_弱虫モンブラン_DECO_27_feat._marina.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "弱虫モンブラン (ELECTROCUTICA White Remix)",
+      "artist": "DECO*27 feat. GUMI",
+      "has_synced": false,
+      "path": "select/02_弱虫モンブラン_(ELECTROCUTICA_White_Remix)_DECO_27_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "弱虫モンブラン(ELECTROCUTICA White Remix)",
+      "artist": "ELECTROCUTICA",
+      "has_synced": false,
+      "path": "select/03_弱虫モンブラン(ELECTROCUTICA_White_Remix)_ELECTROCUTICA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "弱虫モンブラン(ELECTROCUTICA White Remix) feat. GUMI",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/04_弱虫モンブラン(ELECTROCUTICA_White_Remix)_feat._GUMI_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "弱虫モンブラン",
+      "artist": "うさ",
+      "has_synced": false,
+      "path": "select/05_弱虫モンブラン_うさ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "弱虫モンブラン",
+      "artist": "DECO*27 feat. GUMI",
+      "has_synced": true,
+      "path": "select/06_弱虫モンブラン_DECO_27_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "弱虫モンブラン (feat. GUMI)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/07_弱虫モンブラン_(feat._GUMI)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "弱虫モンブラン(ELECTROCUTICA White Remix)",
+      "artist": "GUMI",
+      "has_synced": false,
+      "path": "select/08_弱虫モンブラン(ELECTROCUTICA_White_Remix)_GUMI.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "弱虫モンブラン",
+      "artist": "DECO[↑]*27",
+      "has_synced": false,
+      "path": "select/09_弱虫モンブラン_DECO[↑]_27.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "弱虫モンブラン",
+      "artist": "deco27 feat. GUMI",
+      "has_synced": true,
+      "path": "select/10_弱虫モンブラン_deco27_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "弱虫モンブラン",
+      "artist": "ゆう十",
+      "has_synced": false,
+      "path": "select/11_弱虫モンブラン_ゆう十.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "弱虫モンブラン feat. marina",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/12_弱虫モンブラン_feat._marina_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "弱虫モンブラン - Yowamushi Mont Blanc (feat. GUMI)",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/13_弱虫モンブラン_-_Yowamushi_Mont_Blanc_(feat._GUMI)_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "弱虫モンブラン / DECO*27 Feat. GUMI",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/14_弱虫モンブラン___DECO_27_Feat._GUMI_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "弱虫モンブラン feat. marina",
+      "artist": "marina",
+      "has_synced": false,
+      "path": "select/15_弱虫モンブラン_feat._marina_marina.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "弱虫モンブラン",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_弱虫モンブラン_DECO_27.txt"
+    }
+  ]
+}
